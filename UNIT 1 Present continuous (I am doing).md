@@ -10,7 +10,7 @@
 
 > [I am driving.](# "Я веду машину.")  
 > [He is driving.](# "Он ведёт машину.")  
-> [It is driving.](# "Оно ведёт машину.")
+> [It is driving.](# "Оно ведёт машину.")  
 > [She is driving.](# "Она ведёт машину.")  
 > [We are driving.](# "Мы ведём машину.")  
 > [They are driving.](# "Они ведут машину.")  
